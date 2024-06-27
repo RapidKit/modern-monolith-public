@@ -1,9 +1,9 @@
-import GuestLayout from '@/Layouts/GuestLayout';
-import InputError from '@/Components/InputError';
-import PrimaryButton from '@/Components/PrimaryButton';
-import TextInput from '@/Components/TextInput';
+import InputError from '~/BreezeComponents/InputError';
+import PrimaryButton from '~/BreezeComponents/PrimaryButton';
+import TextInput from '~/BreezeComponents/TextInput';
 import { Head, useForm } from '@inertiajs/react';
 import { FormEventHandler } from 'react';
+import GuestLayout from '~/BreezeLayouts/GuestLayout';
 
 export default function ForgotPassword({ status }: { status?: string }) {
     const { data, setData, post, processing, errors } = useForm({
