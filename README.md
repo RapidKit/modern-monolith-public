@@ -63,4 +63,18 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Larapus Web Application is copyrighted software with a custom license. The use of this application is subject to the following terms:
+
+1. Users are permitted to use, copy, modify, and distribute this application for personal or commercial purposes.
+
+2. Users are prohibited from redistributing, selling, or sharing individual components found in the private repository, including components from TailwindUI.
+
+3. The use of TailwindUI components in this application is part of the "Konsolidasi TailwindUI" team membership and is subject to the TailwindUI Team License terms.
+
+4. This application uses the Laravel framework, which is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+For more information, please read the `LICENSE` file in the root of this project.
+
+Untuk versi bahasa Indonesia dari lisensi ini, silakan baca berkas LICENSE di root project.
+
+© [2024] Qisthi Ramadhani. All Rights Reserved.

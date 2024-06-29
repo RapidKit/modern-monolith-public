@@ -1,9 +1,9 @@
 {
-    "name": "laravel/laravel",
+    "name": "rapidkit/larapus",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
-    "license": "MIT",
+    "description": "Aplikasi manajemen perpustakaan modern berbasis Laravel dengan UI keren menggunakan TailwindUI.",
+    "keywords": ["laravel", "perpustakaan", "manajemen", "tailwindui", "web-app", "fullstack"],
+    "license": "proprietary",
     "require": {
         "php": "^8.2",
         "inertiajs/inertia-laravel": "^1.0",
